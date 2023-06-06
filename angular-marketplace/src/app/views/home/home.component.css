@@ -1,0 +1,23 @@
+.home .title {
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1.2;
+    text-align: center;
+}
+
+.mat-card-content {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.logo {
+    width: 150px;
+    position: relative;
+    left: 38%;
+}
+
+@media screen and (min-width:765px) {
+    .logo {
+        width: 450px;
+    }
+}
